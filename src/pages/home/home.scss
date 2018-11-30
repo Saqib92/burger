@@ -1,3 +1,46 @@
 page-home {
+	ion-col{
+		border: 1px solid lightgrey;
+    	text-align: center;
+    	margin: 0 5px;
+    	button{
+    		display: inline-block;
+    		width: 40%;
+    	}
+    	img{
+    		width: 80%;
+    	}
+	}
 
+
+/* #box {
+    
+   
+    border: 1px solid #ccc;
+    background-color: #fff;
+    position: relative;
+}
+
+#box::before,
+#box::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-color: transparent;
+    border-style: solid;
+}
+
+#box::before {
+
+    border-right-color: #ccc;
+    border-top-color: #ccc;
+}
+
+#box::after {
+    border-radius: 0.4em;
+    border-width: 1.35em;
+    border-right-color: #0c0;
+    border-top-color: #0c0;
+} */
 }
