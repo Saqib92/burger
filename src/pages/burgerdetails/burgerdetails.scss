@@ -1,3 +1,95 @@
 page-burgerdetails {
 
+.single-product-detail .full-img {
+	text-align: center;
+}
+
+
+.single-row {
+    font-family: sans-serif;
+}
+
+h6.p-name {
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+p.desc {
+    font-size: 18px;
+    margin: 5px 0px;
+    color: #848484;
+}
+
+span.price {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 6px;
+    display: inline-block;
+    color:#32910f;
+    width: 100%;
+}
+
+.final-price span.price {
+    margin: 0px 15px 0px 0px;
+}
+
+.final-price h6.p-name {
+    margin-left: 15px;
+}
+
+.single-row.row {
+    border-bottom: .056px solid #ccc;
+    padding: 5px 15px;
+}
+
+.full-img{
+    margin: 10px 0px;
+}
+
+.order-detail-page .grid {
+	padding: 0px !important;
+}
+
+
+.final-price p.desc {
+    margin: 10px 15px 5px 15px;
+}
+
+h6.p-name {
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+button.checkout {
+
+    padding: 12px 25px;
+    border-radius: 0px;
+    height: auto;
+    width: 100%;
+
+}
+button.add-cart {
+    height: auto;
+    border-radius: 0px;
+    padding: 12px 35px;
+    width: 100%;
+}
+
+	.counter{
+		    font-size: 50px;
+	    	text-align: center;
+	    .plus{
+	    	color: green;
+	    	margin-left: 20px;
+	    }
+	    .minus{
+	    	color: red;
+	    	margin-right: 20px;
+	    }
+	}
+
+	.total{
+		font-size: 20px;
+
+	}
 }
